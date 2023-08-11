@@ -1,5 +1,5 @@
 # Aps360
-
+Final Code is in Final_Gen Folder and linked below as well
 # Twitter Sentiment Analysis Readme
 
 This repository contains the code and necessary instructions to perform sentiment analysis on Twitter data using a Convolutional Neural Network (CNN). The code is implemented in Python and utilizes various libraries such as nltk, emoji, pandas, and torch.
